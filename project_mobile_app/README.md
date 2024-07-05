@@ -1,4 +1,6 @@
-# Проект по анализу поведения пользователей мобильного приложения.
+# Проект по анализу поведения пользователей мобильного приложения
+
+## Ссылки: [ipynb](https://github.com/ilduskhisamov/Portfolio/blob/149c0943a7e64b04ac926b2be6225fa638f1a7b5/project_mobile_app/mobile_app_project.ipynb) [html](https://github.com/ilduskhisamov/Portfolio/blob/149c0943a7e64b04ac926b2be6225fa638f1a7b5/project_mobile_app/mobile_app_project.html)
 
 ## Навыки и инструменты:
 - python
