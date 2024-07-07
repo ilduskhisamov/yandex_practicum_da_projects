@@ -1,6 +1,6 @@
 # Маркетинговое исследование развлекательного приложения Procrastinate Pro+.
 
-## Ссылки: [ipynb](https://github.com/ilduskhisamov/Portfolio/blob/149c0943a7e64b04ac926b2be6225fa638f1a7b5/project_mobile_app/mobile_app_project.ipynb) [html](https://github.com/ilduskhisamov/Portfolio/blob/149c0943a7e64b04ac926b2be6225fa638f1a7b5/project_mobile_app/mobile_app_project.html)
+## Ссылки: [ipynb](https://github.com/ilduskhisamov/Portfolio/blob/783972098c62d274a5677a38d93a0629302ffcca/marketing_analysis/marketing_analysis_mobile_app.ipynb) [html](https://github.com/ilduskhisamov/Portfolio/blob/783972098c62d274a5677a38d93a0629302ffcca/marketing_analysis/marketing_analysis_mobile_app.html)
 
 ## Навыки и инструменты:
 Python:
@@ -17,9 +17,9 @@ Python:
 Нужно разобраться в причинах неэффективности привлечения пользователей, помочь компании выйти в плюс и сформулировать рекомендации для отдела маркетинга.
 
 ## Описание данных: В моем распоряжении три датасета:
-visits_info_short.csv хранит лог сервера с информацией о посещениях сайта,
-orders_info_short.csv — информацию о заказах,
-costs_info_short.csv — информацию о расходах на рекламу.
+- visits_info_short.csv хранит лог сервера с информацией о посещениях сайта,
+- orders_info_short.csv — информацию о заказах,
+- costs_info_short.csv — информацию о расходах на рекламу.
 
 ## Ход исследования:
 - Подготовка данных: загрузка данных и изучение общей информации
