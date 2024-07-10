@@ -1,4 +1,4 @@
-# Исследование пользователей в мобильном приложении
+# :books: Исследование пользователей в мобильном приложении
 
 ## Ссылки: [ipynb](https://github.com/ilduskhisamov/Portfolio/blob/680442c4d6cac63506c29da38e09a3b8b3c85165/analysis_user_behavior/project_analysis_user_behavior.ipynb) [html](https://github.com/ilduskhisamov/Portfolio/blob/680442c4d6cac63506c29da38e09a3b8b3c85165/analysis_user_behavior/project_analysis_user_behavior.html)
 
