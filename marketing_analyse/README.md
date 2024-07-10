@@ -1,6 +1,6 @@
 # :books: Маркетинговое исследование развлекательного приложения Procrastinate Pro+.
 
-## Ссылки: [ipynb](https://github.com/ilduskhisamov/Portfolio/blob/783972098c62d274a5677a38d93a0629302ffcca/marketing_analysis/marketing_analysis_mobile_app.ipynb) [html](https://github.com/ilduskhisamov/Portfolio/blob/783972098c62d274a5677a38d93a0629302ffcca/marketing_analysis/marketing_analysis_mobile_app.html)
+## [Ссылка на проект](https://github.com/ilduskhisamov/Portfolio/blob/783972098c62d274a5677a38d93a0629302ffcca/marketing_analysis/marketing_analysis_mobile_app.ipynb)
 
 ## Навыки и инструменты:
 Используемые биботеки Python - pandas, datetime, matplotlib, plotly.
