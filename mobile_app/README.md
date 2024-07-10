@@ -1,6 +1,6 @@
 # :books: Проект по анализу поведения пользователей мобильного приложения
 
-## [Ссылка на проект](https://github.com/ilduskhisamov/Portfolio/blob/149c0943a7e64b04ac926b2be6225fa638f1a7b5/project_mobile_app/mobile_app_project.ipynb)
+## [Ссылка на проект](https://github.com/ilduskhisamov/yandex_practicum_da_projects/blob/ea82239d927639c4995ea685dc42f7208a9c59a2/mobile_app/project_mobile_app.ipynb)
 
 Используемые библиотеки Python - pandas, numpy, scipy, math, matplotlib, seaborn, plotly.
 
